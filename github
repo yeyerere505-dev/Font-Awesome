@@ -1,0 +1,68 @@
+
+Pusat Bantuan
+Komunitas
+Mulai menggunakan Chrome
+
+Menghapus, mengizinkan, dan mengelola cookie di Chrome
+Anda dapat memilih untuk menghapus cookie yang ada, mengizinkan atau memblokir cookie pihak ketiga, dan menetapkan preferensi untuk situs tertentu.
+
+Memahami cookie
+Cookie adalah file yang dibuat oleh situs yang Anda buka. Dengan menyimpan informasi tentang kunjungan Anda, cookie membuat pengalaman online Anda menjadi lebih mudah. Misalnya, situs dapat membuat Anda tetap login, mengingat preferensi situs Anda, dan memberikan konten lokal yang sesuai dengan Anda.
+
+Ada 2 jenis cookie:
+
+Cookie pihak pertama: Dibuat oleh situs yang Anda buka. Situs tersebut ditampilkan di kolom URL.
+Cookie pihak ketiga: Dibuat oleh situs lain. Situs yang Anda buka dapat menyematkan konten dari situs lain, misalnya gambar, iklan, dan teks. Situs tersebut dapat menggunakan cookie pihak ketiga untuk mempersonalisasi konten dan iklan, serta mempelajari tindakan yang Anda lakukan di situs lain.
+Tips: Beberapa situs mungkin akan meminta Anda menyetujui atau menolak cookie.
+
+Ada cara lain yang dapat digunakan situs untuk mempersonalisasi konten dan iklan. Fitur seperti topik iklan dan iklan yang disarankan situs di Chrome memungkinkan situs menampilkan konten yang dipersonalisasi kepada Anda. Fitur ini membatasi informasi tentang Anda yang dapat dipelajari situs dan partner-nya. Pelajari lebih lanjut cara mengelola fitur ini.
+
+Komputer AndroidiPhone & iPad
+Menghapus semua cookie
+Penting: Jika Anda menghapus cookie, Anda mungkin akan logout dari situs yang mengingat Anda. Preferensi yang Anda simpan juga dapat dihapus. Hal ini berlaku setiap kali cookie dihapus.
+
+Di perangkat Android Anda, buka Chrome Chrome.
+Di kanan atas, ketuk Lainnya Lainnya kemudian Setelan.
+Ketuk Privasi dan keamanan kemudian Hapus data penjelajahan.
+Di samping "Rentang waktu", dari menu dropdown, pilih rentang waktu data penjelajahan yang ingin Anda hapus:
+15 menit terakhir
+Sejam terakhir
+24 jam terakhir
+7 hari terakhir
+4 minggu terakhir
+Semua
+Centang Cookie dan data situs.
+Centang item lain yang ingin Anda hapus.
+Untuk mengonfirmasi, ketuk Hapus data.
+Menghapus cookie dari satu situs
+Di perangkat Android Anda, buka Chrome Chrome.
+Buka situs.
+Di kiri atas kolom URL, ketuk Info halaman Default (Secure) kemudian Cookie dan data situs.
+Di samping data tersimpan, ketuk Hapus Hapus.
+Mengubah setelan cookie pihak ketiga Anda
+Mengizinkan atau memblokir cookie pihak ketiga
+Mengizinkan cookie pihak ketiga untuk situs tertentu
+Jika Anda memblokir cookie pihak ketiga secara default, Anda masih dapat mengizinkannya untuk situs tertentu.
+
+Di perangkat Android Anda, buka Chrome Chrome.
+Di kanan atas, ketuk Lainnya Lainnya lalu Setelan.
+Ketuk Privasi dan keamanan lalu Cookie pihak ketiga.
+Ketuk + Tambahkan pengecualian situs.
+Masukkan alamat web.
+Untuk membuat pengecualian bagi seluruh domain, tambahkan [*.] sebelum nama domain. Misalnya, [*.]google.com akan cocok dengan drive.google.com dan calendar.google.com.
+Anda juga dapat menempatkan alamat IP atau alamat web yang tidak dimulai dengan http://.
+Ketuk Tambahkan.
+Untuk menghapus pengecualian yang tidak lagi Anda inginkan, ketuk pengecualian tersebut, lalu ketuk Hapus.
+Mengizinkan sementara cookie pihak ketiga untuk situs tertentu
+Jika Anda memblokir cookie pihak ketiga, beberapa situs mungkin tidak berfungsi seperti yang Anda harapkan. Anda dapat mengizinkan sementara cookie pihak ketiga untuk situs tertentu yang Anda kunjungi.
+Di perangkat Android Anda, buka Chrome Chrome.
+Di kolom URL, di bagian kiri atas:
+Untuk mengizinkan cookie pihak ketiga: Ketuk Info halaman Default (Secure) lalu Cookie dan data situs, lalu aktifkan Cookie pihak ketiga.
+Untuk memblokir cookie pihak ketiga: Ketuk Info halaman Default (Secure) lalu Cookie dan data situs, lalu nonaktifkan Cookie pihak ketiga.
+Tips:
+
+Opsi ini hanya bersifat sementara dan hanya untuk situs yang Anda buka.
+Situs ditambahkan ke daftar pengecualian secara otomatis.
+Jika Anda mengizinkan sementara cookie pihak ketiga di suatu situs, setelan tersebut juga akan diterapkan ke mode Samaran dan Anda tidak dapat meresetnya dari mode Samaran.
+Mengizinkan situs terkait untuk mengakses aktivitas Anda
+Perusahaan dapat menentukan grup situs yang saling terkait. Misalnya, perusahaan mungkin ingin Anda tetap login saat Anda beralih antara situs acme-music.example dan acme-video.example
